@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke;
+    font-family: verdana;
+    align-content: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+.avatar {
+    border: 1px solid darkgray;
+    box-shadow: 4px 4px lightgray;
+    height: 120;
+    width: 120;
+}
